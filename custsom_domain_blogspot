@@ -1,0 +1,21 @@
+Pudin S.I
+https://t.me/pudin_irawati
+https://www.italazhar.com
+https://instagram.com/pudin.ira
+
+
+@ TXT v=spf1 include:_spf.google.com ~all
+
+www CNAME ghs.google.com
+
+Domain  name	= kosongi saja
+TTL		= 14400
+Record Type	= A
+Hostname	= 216.239.32.21
+
+Ulangi isian Untuk IP or Hostname =
+- 216.239.34.21
+- 216.239.36.21
+- 216.239.38.21
+
+------------------------------------
