@@ -1,0 +1,17 @@
+Link URL : https://ahrefs.com/webmaster-tools
+Pudin S. I
+https://www.italazhar.com
+https://t.me/pudin_ira
+https://instagram.com/pudin.ira
+
+Sitemap :
+https://namadomainkamu.com/sitemap.xml
+https://namadomainkamu.com/feeds/posts/default?orderby=updated
+https://namadomainkamu.com/atom.xml
+https://namadomainkamu.com/atom.xml?redirect=false&start-index=1&max-results=500
+
+
+Jangan di indek
+https://namadomainkamu.com/search/
+https://namadomainkamu.com/feeds/
+https://namadomainkamu.com/js/
