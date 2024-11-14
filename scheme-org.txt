@@ -1,0 +1,36 @@
+
+<!-- SCHEME SEKOLAH -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "SD Islam Al Azhar 27 Cibinong",
+  "url": "https://www.sdialazhar27.sch.id",
+  "logo": "https://www.sdialazhar27.sch.id/assets/img/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Jl. Raya Cibinong No.27",
+    "addressLocality": "Cibinong",
+    "addressRegion": "Bogor",
+    "postalCode": "16913",
+    "addressCountry": "ID"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-852-1515-2627",
+    "contactType": "Customer Service",
+    "areaServed": "ID",
+    "availableLanguage": "id"
+  },
+  "description": "SD Islam Al Azhar 27 Cibinong menyediakan pendidikan dasar Islami yang berkualitas di Cibinong, Bogor.",
+  "founder": {
+    "@type": "Person",
+    "name": "Yayasan Pesantren Islam Al Azhar"
+  }
+}
+</script>
+
+
+
+
+<!-- ======================== END ====================================== -->
