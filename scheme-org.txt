@@ -30,7 +30,31 @@
 }
 </script>
 
-
+<!-- SCHEME VIDEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Profil SD Islam Al Azhar 27 Cibinong",
+  "description": "Video profil yang memperkenalkan kegiatan dan fasilitas di SD Islam Al Azhar 27 Cibinong.",
+  "thumbnailUrl": "https://www.sdialazhar27.sch.id/assets/img/video-thumbnail1.jpg",
+  "uploadDate": "2023-06-15",
+  "contentUrl": "https://www.sdialazhar27.sch.id/video/profil.mp4",
+  "embedUrl": "https://www.youtube.com/embed/abc123",
+  "duration": "PT2M30S"
+},
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Kegiatan Ekstrakurikuler SD Islam Al Azhar 27",
+  "description": "Cuplikan berbagai kegiatan ekstrakurikuler di SD Islam Al Azhar 27 Cibinong.",
+  "thumbnailUrl": "https://www.sdialazhar27.sch.id/assets/img/video-thumbnail2.jpg",
+  "uploadDate": "2023-07-20",
+  "contentUrl": "https://www.sdialazhar27.sch.id/video/ekstrakurikuler.mp4",
+  "embedUrl": "https://www.youtube.com/embed/xyz789",
+  "duration": "PT3M15S"
+}
+</script>
 
 
 <!-- ======================== END ====================================== -->
